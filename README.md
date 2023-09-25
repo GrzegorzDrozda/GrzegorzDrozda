@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrzegorzDrozda
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning K8S, AWS, TF
+- 🌱 Working with K8S, AWS, TF
 
 <!---
 GrzegorzDrozda/GrzegorzDrozda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
